@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Andrew Cardinale 👋
+**Data Analyst | Python • SQL • Tableau • Data Modeling**
 
-<!--
-**andrewcardinale/andrewcardinale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Dallas, TX| www.linkedin.com/in/andrew-cardinale-b9b1b729b
 
-Here are some ideas to get you started:
+ | [Email]: andrew@cardinalemusic.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 About Me
+Data Analyst with a Computer Science foundation, dedicated to engineering reliable data pipelines and translating raw numbers into compelling business narratives.
+
+* **Data Integrity & Pipelines:** Clean, validate, and prepare structured feature sets using Python (Pandas, NumPy) and SQL, ensuring clear documentation of data lineage and underlying logic.
+* **Visual Storytelling:** Design dynamic Tableau dashboards that frame metrics around core business questions rather than technical noise.
+* **Business Impact:** Leverage a background in entrepreneurship and project management to align technical analysis directly with operational efficiency and revenue growth.
+
+- 🎓 **Education:** Data & AI Bootcamp at UT Dallas / Fullstack Academy | AS in Computer Science, San Jose City College
+- 📜 **Certifications:** Applied Data Science with Python (Coursera)| Google AI (Coursera)
+
+---
+
+### 🛠️ Technical Stack & Tooling
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Querying** | Python (Pandas, NumPy), SQL, Bash[cite: 1] |
+| **Data Cleaning & Wrangling** | Missing Value Imputation, Outlier Detection, Deduplication, Feature Engineering[cite: 1] |
+| **Data Visualization & BI** | Tableau, Matplotlib, Seaborn, Excel / Spreadsheets[cite: 1] |
+| **Workflows & Developer Tools** | Git, GitHub, Jupyter Notebooks, VS Code[cite: 1] |
+
+---
+---
